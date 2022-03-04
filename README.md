@@ -1,5 +1,5 @@
 # Git_Github
-Repositório para estudo do Git/Github
+Repositório para estudo do Git/Github com anotações de links úteis, links e cursos. 
 
 ## Useful links:
 [01. Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
