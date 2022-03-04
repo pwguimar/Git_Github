@@ -2,4 +2,4 @@
 Repositório para estudo do Git/Github
 
 ## Useful links:
-[Sintaxe Básica Markdown]{https://www.markdownguide.org/basic-syntax/}  
+[01. Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
